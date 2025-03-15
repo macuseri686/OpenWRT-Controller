@@ -16,6 +16,10 @@ OpenWRT Modem Controller provides a graphical interface to manage and monitor mo
 - User-friendly tabbed interface
 - Toast notifications for important events
 
+![Screenshot from 2025-03-14 23-59-53](https://github.com/user-attachments/assets/bff80ecf-51ed-425f-8c7f-55fc5ad26292)
+![Screenshot from 2025-03-15 00-00-10](https://github.com/user-attachments/assets/266c6da4-cf79-45fc-ba9b-c82827c508d2)
+![Screenshot from 2025-03-15 00-00-22](https://github.com/user-attachments/assets/a3e487ed-93c7-4d6c-816c-01fddc4d4b3a)
+
 ## Installation
 
 ### Dependencies
