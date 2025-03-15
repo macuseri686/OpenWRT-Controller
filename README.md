@@ -33,7 +33,7 @@ OpenWRT Modem Controller provides a graphical interface to manage and monitor mo
 
 ```
 # Clone the repository
-git clone https://github.com/yourusername/openwrt-modem-controller.git
+git clone https://github.com/macuseri686/OpenWRT-Controller.git
 cd openwrt-modem-controller
 
 # Install dependencies from requirements.txt
