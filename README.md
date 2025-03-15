@@ -27,7 +27,7 @@ OpenWRT Modem Controller provides a graphical interface to manage and monitor mo
 
 ### Install from source
 
-<code>
+```
 # Clone the repository
 git clone https://github.com/yourusername/openwrt-modem-controller.git
 cd openwrt-modem-controller
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 # Install the package
 pip install -e .
-</code>
+```
 
 ## Usage
 
@@ -45,15 +45,15 @@ pip install -e .
 
 After installation, you can run the application with:
 
-<code>
+```
 modem-monitor
-</code>
+```
 
 Or directly with Python:
 
-<code>
+```
 python -m modem_monitor.main
-</code>
+```
 
 ### First-time setup
 
@@ -81,18 +81,18 @@ python -m modem_monitor.main
 
 ### Building from Source
 
-<code>
+```
 # Install development dependencies
 pip install -e ".[dev]"
-</code>
+```
 
 ### Creating requirements.txt
 
 To update the requirements.txt file:
 
-<code>
+```
 pip freeze > requirements.txt
-</code>
+```
 
 ## License
 
